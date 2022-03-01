@@ -1,0 +1,151 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>At the court at Whitehall, the seventeenth day of January, 1676/7 by the Kings most excellent Majesty, and the Right Honourable the Lords of His Majesties Most Honourable Privy-Council.  Whereas upon the humble petition of Sir John Clayton knight, setting forth, that by vertue of His Majesties letters patents he had erected at above two thousand pounds charge, several light-houses upon the northern coasts, for the benefit of navigation.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1677</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 9 KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B09007</idno>
+            <idno type="STC">Wing E859A</idno>
+            <idno type="STC">ESTC R174978</idno>
+            <idno type="EEBO-CITATION">64551213</idno>
+            <idno type="OCLC">ocm 64551213</idno>
+            <idno type="VID">184547</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B09007)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 184547)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2866:45)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>At the court at Whitehall, the seventeenth day of January, 1676/7 by the Kings most excellent Majesty, and the Right Honourable the Lords of His Majesties Most Honourable Privy-Council.  Whereas upon the humble petition of Sir John Clayton knight, setting forth, that by vertue of His Majesties letters patents he had erected at above two thousand pounds charge, several light-houses upon the northern coasts, for the benefit of navigation.</title>
+                  <author>Walker, Edward, Sir, 1612-1677.</author>
+                  <author>England and Wales. Privy Council.</author>
+               </titleStmt>
+               <extent>1 sheet ([2) p.).   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1677]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Signed: Edward Walker.</note>
+                  <note>Place and date of publication suggested by Wing (2nd ed.).</note>
+                  <note>Reproduction of original in: British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Clayton, John, --  Sir, fl. 1677.</term>
+               <term>Navigation --  Law and legislation --  England --  Early works to 1800.</term>
+               <term>Shipping --  Law and legislation --  England --  Early works to 1800.</term>
+               <term>Lighthouses --  Law and legislation --  England --  Early works to 1800.</term>
+               <term>Broadsides --  England --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-01</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-02</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2012-02</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="petition">
+            <pb facs="tcp:184547:1" rendition="simple:additions"/>
+            <opener>
+               <dateline>At the COURT at WHITEHALL, <date>The Seventeenth day of <hi>January,</hi> 1676/7.</date>
+               </dateline> By the KINGS Moſt Excellent Majeſty, and the Right Honourable the LORDS of His Majeſties Moſt Honourable Privy-Council.</opener>
+            <p>
+               <seg rend="decorInit">W</seg>HEREAS upon the Humble Petition of Sir <hi>John Clayton</hi> Knight, ſetting forth, That by vertue of His Majeſties Letters Patents he had Erected, at above Two thouſand Pounds Charge, ſeveral Light-houſes upon the Northern Coaſts, for the Benefit of Naviga<g ref="char:EOLhyphen"/>tion; One of which being at <hi>St. Nicholas-Gatt</hi> near <hi>Yarmouth,</hi> and of great uſe to Ships ſailing on that Coaſt, as well as the Fiſheries, the Petitioner, at the Inſtance of the ſaid Town, and of the Maſters of Ships there, and in other Parts upon that Coaſt, kindled the ſame: Of which the <hi>Trinity-houſe</hi> of <hi>Deptford</hi> made Complaint to this Board, and gave ſeveral Reaſons why the ſaid Lights ſhould be extinguiſhed, as uſeleſs and dangerous: All which the Petitioner having anſwered, His Majeſty was pleaſed (amongſt other things) by Order of the Eleventh of <hi>Auguſt</hi> laſt, to recommend the Conſideration of the Arguments ſeverally brought as well by the ſaid <hi>Trinity-houſe,</hi> as by the ſaid Sir <hi>John Clayton,</hi> touching the Expediency or Inexpediency of the ſaid Lights, to the Bayliffs, Juſtices, and Maſters of Ships at <hi>Yarmouth,</hi> who were fully and impartially to report their Opinion touching the general or particular Uſefulneſs of each of the ſaid Lights, and how far they, and the Maſters and Mariners belonging to that Place, are conſenting to pay for the Erecting and Maintenance of the ſame. In purſuance whereof, there being preſented to the Board Certificates ſigned as well by the Bayliffs and Juſtices, as by the Maſters of Ships and Ma<g ref="char:EOLhyphen"/>riners of <hi>Great Yarmouth</hi> aforeſaid, repreſenting, That after long Debate amongſt them, and ſerious Conſideration of the whole matter, it was con<g ref="char:EOLhyphen"/>cluded and agreed moſt unanimouſly, both by the ſaid Bayliffs and Magiſtrates, and all the ſaid Mariners then appearing (except one <hi>William Rix</hi>) That the ſaid Light at <hi>St. Nicholas-Gatt,</hi> as it is now erected, if it be blinded until it come upon the <hi>Weſt-and-South,</hi> to prevent the danger of the South-head of <hi>New-orke</hi> and the <hi>Knowle,</hi> is and will be greatly uſeful and advantageous to Trade, and a great Security to all Ships that ſhall paſs that way, and may be a happy means to prevent for the furture the loſs of the Lives of many Perſons, and to preſerve their Shipping and Goods from Wrecks; and that the ſaid Light will in all probability be a great means to encreaſe and encourage the Fiſhery of thoſe Parts; inſomuch that they ſhall at all times be ready to joyn their Aſſiſtance to obtain a Confirmation of His Majeſties Grant to him the ſaid Sir <hi>John Clayton;</hi> the Magiſtrates of the ſaid Town declaring their free Conſent to the Payment to him and his Aſſigns, for and in reſpect of the Benefit of the ſaid Light, One Farthing <hi>per</hi> Ton, and no more, for ſuch of their Laden Ships and Veſſels as ſhall paſs by the ſaid Light: And the ſaid Maſters of Ships and Mariners adjudging One Farthing <hi>per</hi> Ton to be but a reaſonable Allowance for every Light and Loaden Ship, except ſuch Ships as ſhall hap to come from any Port Northwards of this Town, into the Harbour, and there unlade; they apprehending ſuch Ship to have no Benefit by the ſaid Light. Which having been read at the Board, and it appearing, That by the aforeſaid Certificates there was not any mention made of the Light-houſes erected by the ſaid Sir <hi>John Clayton</hi> at <hi>Cromer, Flambrough-head,</hi> and <hi>Farn-Iſland,</hi> which by the aforeſaid Order of the Eleventh of <hi>Auguſt</hi> was likewiſe referred to their Conſideration; It was the Firſt of <hi>December</hi> laſt Ordered, That the Bayliffs and Magiſtrates of the Town of <hi>Yarmouth</hi> ſhould inform themſelves by the Maſters and Owners of Ships, and Mariners of that Town, and Parts adjacent, of the Expediency or In<g ref="char:EOLhyphen"/>expediency of each of the ſaid Lights erected by the ſaid Sir <hi>John Clayton,</hi> at <hi>Cromer, Flambrough-head,</hi> and <hi>Farn-Iſland,</hi> and report their Opinion touching the ſame to this Board; which they accordingly did this day, as followeth; <hi>Viz.</hi>
+            </p>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="document">
+                        <p>In Obedience to an Order of Your Majeſty in Councill, bearing date the Firſt day of <hi>December</hi> laſt paſt, requiring us Your Majeſties Bayliffs and Magiſtrates of the Town of <hi>Great Yarmouth</hi> to inform our ſelves by the Maſters and Owners of Ships, and Mariners of our Town, and Parts adjacent, of the Expediency and Inexpediency of the ſeveral Light-houſes erected by Sir <hi>John Clayton</hi> Knight, at <hi>Cromer, Flambrough-head,</hi> and <hi>Farn-Iſland,</hi> and to report their Opinion touching the ſame, and how far the Maſters and Marines belonging to this Place are conſenting to pay for the Erecting and Maintenance of the ſaid Lights, or any of them: We therefore the ſaid Bayliffs and Magiſtrates whoſe Names are hereunto ſubſcribed, in purſuance of Your Majeſties ſaid Order, do humbly certifie, That on the Nine and twentieth of <hi>December</hi> laſt, we did ſummon the greateſt part of the beſt and moſt experienced Sea-men, Maſters and Mariners of our ſaid Town, then at home, to appear at our Common-Hall; and upon an indifferent and impartial Propoſal of the Objections, Anſwers, and Obſervations made and given in reference to each and every of the ſaid New-erected Lights, it was concluded and moſt unanimouſly agreed by all the ſaid Mariners then preſent, as appears by their ſeveral Subſcriptions remaining by and with us the ſaid Bayliffs, That the ſaid Light-houſe erected on <hi>Flambrough-head,</hi> was very happily deſigned, and if built than now it is, will be greatly uſeful to Trade, particularly to the Collery, and a great Security to all Ships that ſhall paſs that way. We do further humbly certifie, That at the ſame time and place, and upon debate of he Objections, Anſwers, and Obſervations aforeſaid, the Light-houſe erected at <hi>Cromer,</hi> and the other at <hi>Farn-Iſland,</hi> were by the generality and greateſt of the ſaid Maſters and Mariners agreed and ſubſcribed to, to be uſeful and neceſſary, and commodiouſly ſituated for the Benefit of Navigation; but by the reſidue apprehended and judged to be of leſs uſe and importance: And that the ſaid Maſters and Mariners ſo approving of the ſaid Lights, are conſenting to the Payment to him the ſaid Sir <hi>John Clayton,</hi> and his Aſſigns, for and in reſpect of the apparent Benefit and Advantage of the ſaid Lights ſo erected at <hi>Cromer, Flambrough-head,</hi> and <hi>Farn-Iſland</hi> aforeſaid, One Farthing <hi>per</hi> Ton, and no more, for each and ſingu<g ref="char:EOLhyphen"/>lar the ſaid Lights, for ſuch of their Loaden Veſſels as ſhall happen at any time to paſs by any or every of them. All which matter is in all humble manner certified and ſubmitted to Your Majeſties Princely Wiſdom and Conſideration, by Your Majeſties moſt loyal, moſt dutiful, and moſt obedient Subjects,</p>
+                        <closer>
+                           <signed>
+                              <list>
+                                 <head>Bayliffs.</head>
+                                 <item>Rich. Huntington,</item>
+                                 <item>Ben. England,</item>
+                              </list>
+                           </signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <p>All which being taken into conſideration, and the ſaid Sir <hi>John Clayton</hi> by his humble Petition praying liberty to continue the Lights by him ere<g ref="char:EOLhyphen"/>cted, and that the Grant now lying before the Lord Chancellor, being onely an Explanation of his former Patent, may paſs the Broad-Seal; It was thought fit, and accordingly ordered by His Majeſty in Council, That the ſaid Bill for explaining His Majeſties former Grant to Sir <hi>John Clayton,</hi> for Erecting the ſeveral Light-houſes aforeſaid, upon the Northern Coaſts, do paſs the Great Seal of <hi>England:</hi> And that the ſaid Sir <hi>John Clayton</hi> do take eſpecial care that the Light-houſe erected by him at <hi>St. Nicholas-Gatt,</hi> aforeſaid, be blinded until it come upon the <hi>Weſt-and-by-South,</hi> to prevent the danger of the South-head of <hi>New-orke</hi> and the <hi>Knowle,</hi> as is adviſed in the firſt-recited Certificate. And His Majeſty doth farther re<g ref="char:EOLhyphen"/>commend it to the ſaid Sir <hi>John Clayton,</hi> to raiſe the Light at <hi>Flambrough-Head</hi> ſomewhat higher than now it is, if he ſhall be thereunto deſired by the Maſters of Ships and Mariners Trading on that Coaſt.</p>
+            <closer>
+               <signed>EDWARD WALKER.</signed>
+            </closer>
+            <pb facs="tcp:184547:2"/>
+         </div>
+      </body>
+   </text>
+</TEI>
